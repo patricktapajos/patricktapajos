@@ -1,6 +1,10 @@
 # Hi there, i'm Patrick :vulcan_salute::man_technologist:
 
-![patrick](https://media1.tenor.com/images/b7a43f2a884a5469c505b3b0838b6aa2/tenor.gif?itemid=5567497)
+
+
+<p align="center">
+  <img width="460" height="300" src="https://media1.tenor.com/images/b7a43f2a884a5469c505b3b0838b6aa2/tenor.gif?itemid=5567497">
+</p>
 
 My name is Patrick Tapajós, i'm analyst and software developer, current programming in Brazil (who knows other countries, i hope)  and keeping moving to not be obsolete by machines.
 
