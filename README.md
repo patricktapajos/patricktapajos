@@ -1,6 +1,4 @@
-# Hi there, i'm Patrick :vulcan_salute::man_technologist:
-
-
+# Hi there :vulcan_salute: i'm Patrick :man_technologist:
 
 <p align="center">
   <img width="460" height="300" src="https://media1.tenor.com/images/b7a43f2a884a5469c505b3b0838b6aa2/tenor.gif?itemid=5567497">
@@ -10,17 +8,9 @@ My name is Patrick Tapajós, i'm analyst and software developer, current program
 
 I'm graduated in Systems Analysis and Development at IFAM (Instituto Federal do Amazonas) and currently studying Data Science at UEA (Universidade do Estado do Amazonas), working with systems development at the Manaus City Hall, having been involved with web and mobile technologies, becoming increasingly interested in the world of Data Science.
 
-<!--
-**patricktapajos/patricktapajos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :link: Networking
 
-Here are some ideas to get you started:
+Let's be friends!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-tapajos-pinto/)
+[![twiiter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twiiter.com/patricktapajos)
