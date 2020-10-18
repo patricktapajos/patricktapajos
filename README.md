@@ -4,12 +4,12 @@
   <img width="400" height="250" src="https://media1.tenor.com/images/b7a43f2a884a5469c505b3b0838b6aa2/tenor.gif?itemid=5567497">
 </p>
 
--:man_technologist: Analyst and software developer
--:pushpin: Current programming from Amazonas, Brazil (who knows other cities and countries, i hope)
--:briefcase: Working with systems development at the Manaus City Hall
--:bar_chart: Data Scientist wannabe
--:robot: Keeping moving to not be obsolete by machines
--:rocket: Let's learn together, folks!
+- :man_technologist: Analyst and software developer
+- :pushpin: Current programming from Amazonas, Brazil (who knows other cities and countries, i hope)
+- :briefcase: Working with systems development at the Manaus City Hall
+- :bar_chart: Data Scientist wannabe
+- :robot: Keeping moving to not be obsolete by machines
+- :rocket: Let's learn together, folks!
 
 ### Find me on:
 
