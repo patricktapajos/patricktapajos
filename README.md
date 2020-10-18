@@ -4,7 +4,7 @@
   <img width="460" height="300" src="https://media1.tenor.com/images/b7a43f2a884a5469c505b3b0838b6aa2/tenor.gif?itemid=5567497">
 </p>
 
-My name is Patrick Tapajós, i'm analyst and software developer, current programming in Brazil (who knows other countries, i hope)  and keeping moving to not be obsolete by machines.
+My name is Patrick Tapajós, i'm analyst and software developer, current programming from Amazonas, Brazil (who knows other cities and countries, i hope) and keeping moving to not be obsolete by machines.
 
 I'm graduated in Systems Analysis and Development at IFAM (Instituto Federal do Amazonas) and currently studying Data Science at UEA (Universidade do Estado do Amazonas), working with systems development at the Manaus City Hall, having been involved with web and mobile technologies, becoming increasingly interested in the world of Data Science.
 
