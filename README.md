@@ -1,8 +1,8 @@
 ## Hi there :vulcan_salute: i'm Patrick!
 
-<!--<p align="center">
+<p align="center">
   <img width="400" height="250" src="https://media1.tenor.com/images/b7a43f2a884a5469c505b3b0838b6aa2/tenor.gif?itemid=5567497">
-</p>-->
+</p>
 
 <dl>
   <dd>:man_technologist: Analyst and software developer</dd>
