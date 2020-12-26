@@ -12,7 +12,6 @@
   <dd>:robot: Keeping moving to not be obsolete by machines</dd>
 </dl>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=patricktapajos&theme=buefy&show_icons=true&count_private=true) 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=patricktapajos&layout=compact&theme=buefy)
 
 ### :rocket: Let's learn together, folks! :mailbox: Find me on:
